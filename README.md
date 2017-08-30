@@ -2,6 +2,9 @@
 # Androidkt-CleanArchitecture-Template
 Android Kotlin Template - Clean Architecure
 
+## Clean Architecture
+![CleanArchitecture](https://8thlight.com/blog/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
+
 ## Inspired by:
 - [Tomislav Homan FIVE Android Architecture](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
 - [Fernando Cejas Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
