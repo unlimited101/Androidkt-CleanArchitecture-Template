@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Flocksserver/Androidkt-CleanArchitecture-Template.svg?branch=master)](https://travis-ci.org/Flocksserver/Androidkt-CleanArchitecture-Template)
 # Androidkt-CleanArchitecture-Template
 Android Kotlin Template - Clean Architecure
 
