@@ -37,6 +37,7 @@ class MainActivity : BaseActivity(), HasComponent<MainComponent> {
         replaceFragment(R.id.container, ContentFragment.newInstance())
     }
 
+    //TODO: Android Injector
     private val mainComponent: MainComponent
         get() = DaggerMainComponent.builder()
             .applicationComponent(getApplicationComponent())
