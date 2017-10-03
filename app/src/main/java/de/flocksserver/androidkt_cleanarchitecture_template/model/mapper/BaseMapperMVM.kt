@@ -5,6 +5,7 @@ import java.util.ArrayList
 /**
  * Created by marcel on 27.07.17.
  */
+//TODO: MVP <--> MVVM
 abstract class BaseMapperMVM<ViewModel, Model> {
 
     abstract fun transformMtoVM(model: Model?): ViewModel?
